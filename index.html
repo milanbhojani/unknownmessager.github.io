@@ -14,14 +14,11 @@
 
 <script>
     function myFunction() {
-      var x = "wa.me/+91"+document.getElementById("myText").value;
+      var x = "http://wa.me/+91"+document.getElementById("myText").value;
       if (x) {
         window.open(x, "_blank");
       }
-      //document.getElementById("demo").innerHTML = x;
-    //   console.log(x);
-    //   location.replace(x)
-
+      
     }
     </script>
 
@@ -32,8 +29,7 @@
     <div class="row justify-content-center">
       <div class="col-md-6">
         <div class="card">
-          <div class="card-body">
-            
+          <div class="card-body">            
               <div class="form-group">
                 <label for="inputValue">Input Value:</label>
                 <input type="text" class="form-control" id="myText" placeholder="Enter a value">
