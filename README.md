@@ -4,7 +4,7 @@ It is a Simple tool for open whatsapp chat without save a contact , Whatsapp has
 
 User have enter whatsapp Number and click on Button tool simply redirect to you your whatsapp chat without save contact details
 
-Note* (Tool Not Store your Any Data It's Simply Redirect on wa.me/+91Your-Number)
+### Note: Tool Not Store your Any Data It's Simply Redirect on wa.me/+91Your-Number*
 
 ### Screenshot
 ![](./Design/ss1.png)
