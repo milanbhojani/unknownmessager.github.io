@@ -3,9 +3,7 @@
 It is a Simple tool for open whatsapp chat without save a contact
 
 ### Screenshot
-
 ![](./Design/ss1.png)
-
 
 ### Links
 
