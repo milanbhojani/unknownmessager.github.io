@@ -1,6 +1,10 @@
 # Unknown Messanger 
 
-It is a Simple tool for open whatsapp chat without save a contact
+It is a Simple tool for open whatsapp chat without save a contact , Whatsapp has Doesn't any Tool or Features in which User Directly Without save any contact details it can chat with other So I have Develope a Tool for that and it's a Very simple & Easy to use.
+
+User have enter whatsapp Number and click on Button tool simply redirect to you your whatsapp chat without save contact details
+
+Note* (Tool Not Store your Any Data It's Simply Redirect on wa.me/+91Your-Number)
 
 ### Screenshot
 ![](./Design/ss1.png)
